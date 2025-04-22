@@ -12,6 +12,7 @@ public class lesson03 {
         System.out.println("Факториал 1 = " + factorial(1));
         System.out.println("Факториал 15 = " + factorial(15));
 
+        // проверка работы PR
     }
 
     static void test(int age) {
